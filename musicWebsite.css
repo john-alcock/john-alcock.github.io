@@ -1,7 +1,7 @@
 
 body{
   font-family: helvetica, sans-serif;
-  background-image: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0)), url('best.jpg');
+  background-image: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0)), url('best.JPG');
   background-size: cover;
   height: 700px;
   color: white;
