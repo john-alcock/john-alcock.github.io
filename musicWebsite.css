@@ -3,6 +3,7 @@ body{
   font-family: helvetica, sans-serif;
   background-image: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0)), url('best.JPG');
   background-size: cover;
+  background-repeat: no-repeat;
   height: 700px;
   color: white;
   padding: 20px;
