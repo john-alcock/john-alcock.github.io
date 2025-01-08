@@ -1,0 +1,133 @@
+
+
+body{
+  	font-family: courier, sans-serif;
+	color: white;
+	padding: 20px;
+}
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+nav .logo a{
+  	float: left;
+	font-size: 40px;
+	text-decoration: none;
+	color: white;
+  
+}
+
+
+div.insta {
+	position: fixed;
+  	top: 7px;
+	right: 400px;
+}
+
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 75px;
+  line-height: 75px;
+  padding: 0px 60px;
+  overflow: hidden;
+  background-color: black;
+  z-index: 9999;
+}
+
+nav ul{
+  float: right;
+}
+
+nav li{
+  display: inline-block;
+  list-style-type: none;
+}
+
+
+
+nav li a {
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+input[type=text], select, textarea{
+	font-family: inherit;
+	border-radius: 4px;
+  	width: 100%;
+  	margin-top: 6px;
+  	margin-bottom: 16px;
+	padding: 12px; 
+	resize: none;
+}
+
+input[type=submit] {
+	font-family: inherit;
+	background-color: grey;
+  	color: white;
+  	padding: 12px 20px;
+  	border: none;
+  	border-radius: 4px;
+  	cursor: pointer;
+}
+
+#col-1 {
+	position: relative;
+	width: 50%;
+	float: left;
+	height: 100%;
+	top: 100px;
+
+}
+
+#col-2 {
+	color: black;
+	position: relative;
+	width: 50%;
+	float: right;
+	right: 100px;
+	height: 100%;
+	top: 100px;
+	padding: 100px 100px;
+}
+
+#col-1 img{
+	position: absolute;
+	left: 100px;
+	height: 700px;
+	padding: 40px 40px;
+}
+
+
+#vidBox{
+	position: absolute;
+   	left: 200px; 
+	display: grid;
+  	grid-template-rows: 33% 33% 33%;
+	row-gap: 30px;
+
+}
+
+.footer {
+   	position: absolute;
+   	left: 0;
+   	bottom: -200px;
+   	width: 100%;
+	height: 70px;
+   	background-color: black;
+  	color: white;
+   	text-align: right;
+	padding: 25px 40px;
+}
+
+
+
