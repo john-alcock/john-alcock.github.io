@@ -145,9 +145,7 @@ input[type=submit] {
 
 
 .vidBox{
-	display: grid;
-  	grid-template-rows: 33% 33% 33%;
-	row-gap: 30px;
+	
 
 }
 
