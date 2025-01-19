@@ -149,6 +149,11 @@ input[type=submit] {
 
 }
 
+iframe {
+    display: block;
+    border-style:none;
+}
+
 .footer {
    	position: fixed;
   	bottom: 0;
