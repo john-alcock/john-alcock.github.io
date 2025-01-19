@@ -1,3 +1,4 @@
+
 body{
   	font-family: courier, sans-serif;
 	color: white;
@@ -82,7 +83,7 @@ div.insta {
   height: 10vw;
   line-height: 10vw;
   padding: 0px 60px;
-  background-color: black;
+  background-color: grey;
   z-index: 9999;
 }
 
@@ -144,8 +145,6 @@ input[type=submit] {
 	display: grid;
   	grid-template-rows: 33% 33% 33%;
 	row-gap: 30px;
-	display: flex;
-	justify-content: center;
 
 }
 
