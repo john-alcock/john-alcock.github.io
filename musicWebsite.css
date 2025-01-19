@@ -3,6 +3,7 @@ body{
   	font-family: courier, sans-serif;
 	color: white;
 	padding: 20px;
+	font: 1.5vw
 }
 
 
@@ -101,7 +102,7 @@ input[type=text], select, textarea{
 
 input[type=submit] {
 	font-family: inherit;
-	background-color: grey;
+	background-color: black;
   	color: white;
   	padding: 12px 20px;
   	border: none;
