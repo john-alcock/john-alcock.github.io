@@ -1,3 +1,4 @@
+
 body.index{
 	background-image: url("bestSide.JPG");
 	background-repeat: no-repeat;
@@ -5,6 +6,7 @@ body.index{
 }
 
 body{
+	font-size: 50px;
   	font-family: courier, sans-serif;
 	color: white;
 	padding: 10px;
