@@ -40,6 +40,7 @@ body{
   min-width: 200px;
   z-index: 10000;
   right: 0px;
+  font-size: 30px;
 }
 
 .dropdown-content a {
