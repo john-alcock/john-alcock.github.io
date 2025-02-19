@@ -1,6 +1,6 @@
 
 body.index{
-	background-image: url("daria EFG.JPG");
+	background-image: url("dariaOpac.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -10,7 +10,7 @@ body{
   	font-family: courier, sans-serif;
 	color: white;
 	padding: 10px;
-	background-image: url("daria EFG.JPG"), linear-gradient(rgb(210, 210, 210, 1), rgb(210, 210, 210, 0));;
+	background-image: url("dariaOpac.png"), linear-gradient(rgb(210, 210, 210, 1), rgb(210, 210, 210, 0));;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -135,7 +135,7 @@ input[type=submit] {
 
 .row1 {
 	position: relative;
-        height: 700px;
+        height: 500px;
 	width: 100%;
 	top: 100px;
 
