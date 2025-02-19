@@ -162,7 +162,7 @@ input[type=submit] {
 
 .vidBox{
 	display: grid;
-	column-gap: 30px;
+	column-gap: 70px;
 	justify-content: center;
 }
 
