@@ -135,6 +135,7 @@ input[type=submit] {
 
 .row1 {
 	position: relative;
+        height: 700px;
 	width: 100%;
 	top: 100px;
 
